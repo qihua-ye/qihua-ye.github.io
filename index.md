@@ -8,6 +8,6 @@ Hey there! My name is Qihua "Kimmy" Ye, and I am an Immunology Ph.D. Candidate i
 
 If you'd like to reach me, please contact me via qihua.ye@cuanschutz.edu or [@QihuaKimmyYe](https://x.com/QihuaKimmyYe). 
 
-My updated list of manuscripts isfound on my Google Scholar profile, [here](https://scholar.google.com/citations?user=Sb4ghPMAAAAJ&hl=en).
+My updated list of manuscripts is found on my Google Scholar profile, [here](https://scholar.google.com/citations?user=Sb4ghPMAAAAJ&hl=en).
 
 You can also connect with me over at LinkedIn, [here](https://www.linkedin.com/in/qihua-ye/).
