@@ -12,9 +12,8 @@ I am a PhD candidate in Immunology at the University of Colorado Anschutz Medica
 [Evans Lab](https://medschool.cuanschutz.edu/pulmonary/research/labs/introduction). My research focuses on immune
 regulation in chronic lung diseases, including chronic obstructive pulmonary disease (COPD) and pulmonary fibrosis.
 
-My work integrates macrophage biology, mucosal immunology, and glycobiology to uncover immune system–mediated
-mechanisms with therapeutic relevance. I am particularly interested in understanding how immune–epithelial
-interactions shape lung homeostasis and disease progression.
+My work integrates macrophage biology, mucosal immunology, and glycobiology to uncover how immune system-mediated consequences
+shape lung homeostasis and disease progression.
 
 Previously, I trained at Harvard Medical School and Colorado State University, where my research encompassed
 mycobacteriology and cystic fibrosis, type II inflammation, airway epithelial biology, and cellular senescence.
@@ -34,22 +33,16 @@ These experiences established a strong foundation in respiratory biology and tra
 
 ## Technical Expertise
 
-### Experimental Immunology and Lung Biology
-Immunoassays including flow cytometry (FACS), ELISA, RT‑qPCR, and immunohistochemistry.  
-Extensive experience with murine models of lung disease, including bronchoalveolar lavage and multiple routes of
-administration (intratracheal, intranasal, intravenous, intraperitoneal, subcutaneous, and oral gavage).  
-Blood collection (submandibular and cardiac), anesthesia, and euthanasia procedures.
+### Extensive experience with transgenic murine models of lung disease
 
-### In Vitro and Tissue Models
-In vitro airway systems including air–liquid interface cultures and 3D airway/lung organoids.  
-Bacterial culture and infection‑relevant experimental workflows.
+### Immunoassays 
 
-### Computational Biology and Data Analysis
-Analysis of high‑throughput sequencing data including bulk and single‑cell RNA‑seq and ATAC‑seq.  
-Experience working in high‑performance computing environments using Linux and R.
+### In Vitro air–liquid interface cultures and 3D airway/lung organoids
+
+### Computational Biology and Data Analysis(bulk, single‑cell RNA‑seq, ATAC‑seq). Experience in high‑performance computing.
 
 ### Software and Instrumentation
-Microsoft Office, GraphPad Prism, FlowJo, ImageJ, Zeiss ZEN Blue, FlexiVent, Visiopharm, and QuPath.
+e.g. Microsoft Office, GraphPad Prism, FlowJo, ImageJ, Zeiss ZEN Blue, FlexiVent, Visiopharm, and QuPath.
 
 ---
 
