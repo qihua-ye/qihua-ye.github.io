@@ -68,10 +68,10 @@ Colorado State University
 
 ## Publications and Profiles
 
-- (Google Scholar)[https://scholar.google.com/citations?user=Sb4ghPMAAAAJ&hl=en]  
-- (ORCID)[https://orcid.org/0000-0002-8037-0225]  
-- (ResearchGate)[https://www.researchgate.net/profile/Qihua-Ye]  
-- (LinkedIn)[https://www.linkedin.com/in/qihua-ye/]  
+- [Google Scholar](https://scholar.google.com/citations?user=Sb4ghPMAAAAJ&hl=en)  
+- [ORCID](https://orcid.org/0000-0002-8037-0225)  
+- [ResearchGate](https://www.researchgate.net/profile/Qihua-Ye)  
+- [LinkedIn](https://www.linkedin.com/in/qihua-ye/)  
 
 ---
 
@@ -81,9 +81,8 @@ Email:
 qihua.ye@cuanschutz.edu  
 kimmy.ye17@gmail.com  
 
-(X (Twitter))[https://x.com/QihuaKimmyYe]  
+[X (Twitter)](https://x.com/QihuaKimmyYe)
 
 ---
 
 Last updated: April 2026
-``
