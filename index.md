@@ -33,16 +33,15 @@ These experiences established a strong foundation in respiratory biology and tra
 
 ## Technical Expertise
 
-### Extensive experience with transgenic murine models of lung disease
+- Extensive experience with transgenic murine models of lung disease
 
-### Immunoassays 
+- Immunoassays 
 
-### In Vitro air–liquid interface cultures and 3D airway/lung organoids
+- In Vitro air–liquid interface cultures and 3D airway/lung organoids
 
-### Computational Biology and Data Analysis(bulk, single‑cell RNA‑seq, ATAC‑seq). Experience in high‑performance computing.
+- Computational Biology and Data Analysis(bulk, single‑cell RNA‑seq, ATAC‑seq). Experience in high‑performance computing.
 
-### Software and Instrumentation
-e.g. Microsoft Office, GraphPad Prism, FlowJo, ImageJ, Zeiss ZEN Blue, FlexiVent, Visiopharm, and QuPath.
+- Software and Instrumentation (e.g. Microsoft Office, GraphPad Prism, FlowJo, ImageJ, Zeiss ZEN Blue, FlexiVent, Visiopharm, QuPath).
 
 ---
 
