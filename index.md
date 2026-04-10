@@ -78,8 +78,8 @@ Colorado State University
 ## Contact
 
 Email:  
-qihua.ye@cuanschutz.edu  
-kimmy.ye17@gmail.com  
+[qihua.ye@cuanschutz.edu](mailto:qihua.ye@cuanschutz.edu)  
+[kimmy.ye17@gmail.com](mailto:kimmy.ye17@gmail.com)
 
 [X (Twitter)](https://x.com/QihuaKimmyYe)
 
