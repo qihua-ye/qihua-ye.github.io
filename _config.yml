@@ -3,3 +3,6 @@ minimal_mistakes_skin: air
 
 title: Qihua "Kimmy" Ye's Homepage
 description: Check back for regular updates!
+
+plugins:
+  - jekyll-include-cache
