@@ -1,3 +1,5 @@
-theme: jekyll-theme-cayman
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: air
+
 title: Qihua "Kimmy" Ye's Homepage
-description: Check back for regular updates on my projects!
+description: Check back for regular updates!
